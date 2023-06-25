@@ -1,0 +1,1 @@
+﻿if (num1 > num2) Console.WriteLine($"Число {num1} больше числа {num2}");
